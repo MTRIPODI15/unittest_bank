@@ -1,9 +1,9 @@
-package test.java.test;
+package test;
 
 import org.junit.jupiter.api.Test;
 
-import main.java.model.Account;
-import main.java.model.AccountStatus;
+import model.Account;
+import model.AccountStatus;
 
 import static org.junit.jupiter.api.Assertions.*;
 

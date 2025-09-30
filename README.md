@@ -6,3 +6,8 @@
 - InterestCalculator: Apply compound interest to active accounts
 - JUnit 5 Testing: Full coverage of business logic with exception handling
 - Gradle Build System: Clean compilation, dependency management, and test execution
+
+# Author
+Matías Tripodi  
+[LinkedIn](https://www.linkedin.com/in/matias-tripodi-139925a0/)
+[GitHub Repo](https://github.com/matitripodi/demoqa-selenium-tests)
